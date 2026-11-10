@@ -1,3 +1,5 @@
+// Compilar:  g++ -std=c++11 -o conversor conversor_bases.cpp
+// Executar:  ./conversor
 // Conversor de bases numéricas
 // Bases suportadas: Binário (2), Octal (8), Decimal (10), Hexadecimal (16) e Base 36
 #include <algorithm>
