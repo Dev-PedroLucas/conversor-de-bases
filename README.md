@@ -92,3 +92,5 @@ Converter outro numero? (1 = sim, 0 = sair)
 Escolha: 0
 Ate mais!
 ```
+
+Feito por: Pedro Lucas Ferreira Marques.
